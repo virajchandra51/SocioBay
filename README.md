@@ -15,7 +15,7 @@ A **Real-Time** chat application with multiple custom rooms and user sign-up fun
 
 
 
-## Local Setup for live demo
+## Local Setup for Live Demo
 ###  Clone the repository using the command : `git clone https://github.com/virajchandra51/SocioBay.git` <br/>
 
 ### `npm install`
