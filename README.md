@@ -1,4 +1,4 @@
-# SocioBay
+# SocioBay 💬
 A **Real-Time** chat application with multiple custom rooms and user sign-up functionalities
 1. **Sockets.io** - Used to implement the real-time functionalities by sending triggering and monitoring events on a topic-subscription based model.
 2. **ReactJS** - The front end has been built using ReactJs to implement live state-change handling on (send/receive) message events.
