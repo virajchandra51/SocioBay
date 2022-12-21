@@ -5,13 +5,13 @@ A **Real-Time** chat application with multiple custom rooms and user sign-up fun
 ## **Live Demo** - Heroku got priced :( 
 ## Preview 
 ### Join/Sign Up Page
-![Join]()
+![Join](/1.png)
 
 ### Chat Box ui
-![Chat]()
+![Chat](/2.png)
 
 #### Welcome Message and Notification on the joining of any user
-![Welcome]()
+![Welcome](/3.png)
 
 
 ## Local Setup & Available Scripts
